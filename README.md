@@ -2,7 +2,7 @@
 
 My solutions to problems I solved on open.kattis.com/problems
 
-* [View my profile (omarchehab98)](https://open.kattis.com/users/omarchehab98)
+* [View my profile (oac)](https://open.kattis.com/users/oac)
 
 * [View my university's leaderboard (utoronto.ca)](https://open.kattis.com/universities/utoronto.ca)
 
