@@ -16,6 +16,8 @@ Teams of 3
 
 * [35th in ACM ICPC 2018 East Central NA Regional Contest (UTSC1)](https://ecna18.kattis.com/standings)
 
+* [16th in ACM ICPC 2019 East Central NA Regional Contest (UTSC1)](https://ecna19.kattis.com/standings)
+
 * [11th in UTSCode 2017](https://utoronto.kattis.com/sessions/zsbk7c)
 
 * [7th in UTSCode 2018](https://utoronto.kattis.com/sessions/utscode18)
